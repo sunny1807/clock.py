@@ -1,2 +1,2 @@
-# clock.py
+# Android Clock Automation
 AUTOMATION OF AOSP CLOCK USING PYTHON UIAUTOMATOR WRAPPER
