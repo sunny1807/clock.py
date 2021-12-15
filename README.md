@@ -1,6 +1,9 @@
 # Android Clock Automation
+
+
 AUTOMATION OF AOSP CLOCK USING PYTHON UIAUTOMATOR WRAPPER
-""""
+
+
 Prequsite before Execution
 1. Android Device/AVD
 	Enable USB Debugging 
@@ -14,4 +17,5 @@ Prequsite before Execution
    uiautomator: This module is a Python wrapper of Android uiautomator testing framework.
 4. AOSP Clock 
 Author: Pranshu Pratyay 
-"""
+
+
